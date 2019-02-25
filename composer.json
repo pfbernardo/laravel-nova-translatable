@@ -17,5 +17,15 @@
         "phpunit/phpunit": "^7.5",
         "mockery/mockery": "^1.2",
         "orchestra/testbench": "3.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Eae\\LaravelNovaTranslatable\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Eae\\LaravelNovaTranslatable\\Tests\\": "tests/"
+        }
     }
 }
