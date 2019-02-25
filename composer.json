@@ -1,0 +1,17 @@
+{
+    "name": "eae/laravel-nova-translatable",
+    "description": "Laravel Nova Fields multi-language",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Bernardo",
+            "email": "pedro@eae.pt",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "require-dev": {
+    }
+}

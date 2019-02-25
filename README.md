@@ -1,0 +1,1 @@
+# EAE Laravel Nova Translatable
