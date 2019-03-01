@@ -9,8 +9,15 @@
             "role": "developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://nova.laravel.com"
+        }
+    ],
     "require": {
         "php": ">=7.1.0",
+        "laravel/nova": "~1.0",
         "dimsav/laravel-translatable": "^9.3"
     },
     "require-dev": {
